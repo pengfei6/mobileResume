@@ -20,7 +20,7 @@
         onSlideNextEnd: function () {
             step++;
             change();
-            if (step === 4) {
+            if (step === 5) {
                 step = 1;
             }
         }
